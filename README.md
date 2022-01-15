@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sharif</h1>
-<h2 align="center">A passionate web developer from India</h2>
+
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<h1 align="center">I'm <a href="https://masthansharifshaik.github.io/cv2/">Sharif <img src="https://i.pinimg.com/originals/0d/cd/6f/0dcd6f4e410a34465a2d611913199e50.gif" width="7%" ></a></h1>
+<h3 align="center">A passionate web developer from India</h3>
 
 -  👨‍💻 You can also chekout my portfolio at https://masthansharifshaik.github.io/cv2/
 
@@ -9,7 +11,8 @@
 
 - 📫 Reach out to me **sharifshaik1818@gmail.com**
 
-
+<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/masthan_sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="masthan_sharif" height="30" width="40" /></a>
@@ -27,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masthansharifshaik&show_icons=true&locale=en" alt="masthansharifshaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masthansharifshaik&" alt="masthansharifshaik" /></p>
+<p> Stay Safe, Keep in touch my friend<img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" alt="--masthansharifshaik" width="10%"/></p>
+
