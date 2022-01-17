@@ -1,6 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<h1 align="center">I'm <a href="https://masthansharifshaik.github.io/cv2/">Sharif😃</a></h1>
+<h1 align="center">I'm <a href="https://masthansharifshaik.github.io/cv2/">Sharif</a></h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 -  👨‍💻 You can also chekout my portfolio at https://masthansharifshaik.github.io/cv2/
