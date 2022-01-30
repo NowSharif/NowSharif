@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me **sharifshaik1818@gmail.com**
 
-<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
+<img align="right" alt="PNG" src="https://raw.githubusercontent.com/MasthanSharifShaik/MasthanSharifShaik/main/GitHub%20logo.png" width="300" height="300" />
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masthansharifshaik&show_icons=true&locale=en" alt="masthansharifshaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masthansharifshaik&" alt="masthansharifshaik" /></p>
-<p> Stay Safe, Keep in touch my friend<img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" alt="--masthansharifshaik" width="10%"/></p>
+<p> Stay Safe, Keep in touch my friend<img align="center" src="https://raw.githubusercontent.com/MasthanSharifShaik/MasthanSharifShaik/main/Handshake.gif" alt="--masthansharifshaik" width="10%"/></p>
