@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- I ❤ reading and building fun experiments with my coding skills
+- I ❤ reading good books, blogs and building fun experiments with my coding skills
 
 - 📫 Reach out to me **sharifshaik1818@gmail.com**
 
