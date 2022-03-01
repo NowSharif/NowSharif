@@ -6,7 +6,7 @@
 
 -  👨‍💻 You can also chekout my portfolio at https://masthansharifshaik.github.io/cv2/
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Web Development**
 
 - I ❤ reading good books, blogs and building fun experiments with my coding skills
 
