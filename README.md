@@ -17,7 +17,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/masthan_sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="masthan_sharif" height="30" width="40" /></a>
-<a href="https://twitter.com/masthan_sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masthan_sharif" height="30" width="40" /></a>
+<a href="https://x.com/nowsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masthan_sharif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masthansharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masthansharif" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sharifshaik1818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharifshaik1818" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jannat_ul_saahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jannat_ul_saahil" height="30" width="40" /></a>
